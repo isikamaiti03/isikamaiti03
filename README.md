@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Isika Maiti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="images" src="https://images.app.goo.gl/sAK6YW2GjuqSa2Lw7"/>
+<h3 align="center">A passionate Frontend Developer from India</h3>
+<img align="right" alt="images" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isikamaiti03&label=Profile%20views&color=0e75b6&style=flat" alt="isikamaiti03" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React And Redux**
 
 - 📫 How to reach me **2003isikamaiti@gmail.com**
 
