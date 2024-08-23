@@ -4,7 +4,7 @@
      alt="img"  
  width="100" max-width="800" height="auto" border-radius="10"
 />
-</div>
+
 <h1 align="center">Hi 👋, I'm Isika Maiti</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="images" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"/>
