@@ -1,13 +1,15 @@
-![logo](https://github.com/isikamaiti03/isikamaiti03/blob/main/IMG_20240823_102628.jpg)
+<img src="https://github.com/isikamaiti03/isikamaiti03/blob/main/IMG_20240823_102628.jpg" width="100%"/>
 <h1 align="center">Hi 👋, I'm Isika Maiti</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align="right" alt="images" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"/>
+<img align="right" alt="images" width="400"  src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isikamaiti03&label=Profile%20views&color=0e75b6&style=flat" alt="isikamaiti03" /> </p>
 
 - 🌱 I’m currently learning **React And Redux**
 
 - 📫 How to reach me **2003isikamaiti@gmail.com**
+- 💬 Ask me about *react, java, python*
+- ⚡ Fun fact *I am funny 🙃*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
