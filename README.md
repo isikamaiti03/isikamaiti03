@@ -1,4 +1,4 @@
-![logo](https://acrobat.adobe.com/id/urn:aaid:sc:AP:aebe875c-e8f4-48b7-8f84-0e0d61980787)
+![logo](https://github.com/isikamaiti03/isikamaiti03/blob/44d4595d950075584dcd1f574a77d9b8d0227748/PDFGallery_20240823_005942-1.png) 
 <h1 align="center">Hi 👋, I'm Isika Maiti</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="images" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"/>
