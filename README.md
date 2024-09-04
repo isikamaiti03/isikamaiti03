@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isikamaiti03&label=Profile%20views&color=0e75b6&style=flat" alt="isikamaiti03" /> </p>
 
 - 🌱 I’m currently learning **React And Redux**
--👨‍💻 All of my projects are available at [https://github.com/isikamaiti03](https://github.com/isikamaiti03)
+  
+- 👨‍💻 All of my projects are available at [https://github.com/isikamaiti03](https://github.com/isikamaiti03)
 - 📫 How to reach me **2003isikamaiti@gmail.com**
 - 💬 Ask me about *react, java, python*
 - ⚡ Fun fact *I am funny 🙃*
