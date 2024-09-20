@@ -9,7 +9,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/isikamaiti03](https://github.com/isikamaiti03)
 - 📫 How to reach me **2003isikamaiti@gmail.com**
-- 💬 Ask me about * c, java, python, react*
+- 💬 Ask me about *c, java, python, react*
 - ⚡ Fun fact *I am funny 🙃*
 
 <h3 align="left">Connect with me:</h3>
